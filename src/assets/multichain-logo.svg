@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g id="Layer_x0020_1">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="35" y1="1249.2756" x2="2492" y2="1249.2756" gradientTransform="matrix(1 0 0 -1 0 2499.2756)">
+		<stop offset="0" style="stop-color:#734CE2"></stop>
+		<stop offset="0.6196" style="stop-color:#604DF1"></stop>
+		<stop offset="1" style="stop-color:#524DFB"></stop>
+	</linearGradient>
+	<path class="st0" d="M500,0h1500c275,0,500,225,500,500v1500c0,275-225,500-500,500H500c-275,0-500-225-500-500V500   C0,225,225,0,500,0z"></path>
+	<g id="_1578291808176">
+		<path class="st1" d="M1610,883c29,0,55,11,75,32l114,114c16,16,36,24,58,24c19,0,37-6,51-19c18-15,27-37,27-60c0-21-8-41-23-57    l-112-112c-51-51-119-79-190-79c-72,0-140,28-190,79l-758,758c-34,34-79,53-127,53l0,0c-44,0-87-17-119-47c-35-33-54-78-54-126    c0-46,19-90,51-123l34-34l65,65v-247H264l70,70l-31,31c-131,131-133,343-4,473c63,63,146,98,236,98c89,0,172-34,235-97l764-764    c19-20,45-31,74-31L1610,883z"></path>
+		<path class="st1" d="M2195,1204l-57-57l70-70h-247v247l65-65l60,60c32,32,51,77,51,123c0,48-19,93-54,126c-32,31-74,47-119,47    c-48,0-93-19-127-53l-405-405l-112,112l408,408c63,63,146,97,235,97s173-35,236-98c126-129,124-341-6-473L2195,1204z"></path>
+		<path class="st1" d="M567,1057c14,12,32,19,51,19c21,0,43-9,58-24l138-138c20-20,46-32,75-32s55,11,75,32l102,102l112-113l-99-99    c-51-51-119-79-190-79c-72,0-140,28-190,79L562,940c-15,15-23,35-23,57C539,1020,549,1041,567,1057z"></path>
+	</g>
+</g>
+</svg>
