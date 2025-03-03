@@ -26,7 +26,7 @@ import starkNetIcon from "@/assets/starknet-token-strk-logo.svg";
 import suiIcon from "@/assets/sui-sui-logo.svg";
 import tronChainIcon from "@/assets/tron-trx-logo.svg";
 import zetaChainIcon from "@/assets/zetachain.svg";
-import zkSyncIcon from "@/assets/zkSync.svg";
+import zkSyncIcon from "@/assets/zksync.svg";
 
 import {
   arbitrum,
